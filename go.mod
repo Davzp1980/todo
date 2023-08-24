@@ -1,4 +1,4 @@
-module github.com/Davzp1980/todo-app
+module todo
 
 go 1.21.0
 

@@ -3,10 +3,12 @@ package main
 import (
 	"log"
 
-	"github.com/Davzp1980/todo-app"
-	"github.com/Davzp1980/todo-app/handler"
-	"github.com/Davzp1980/todo-app/repository"
-	"github.com/Davzp1980/todo-app/service"
+	"todo"
+
+	"todo/handler"
+	"todo/repository"
+
+	"todo/service"
 )
 
 func main() {

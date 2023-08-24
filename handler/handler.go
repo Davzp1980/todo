@@ -1,7 +1,8 @@
 package handler
 
 import (
-	"github.com/Davzp1980/todo-app/service"
+	"todo/service"
+
 	"github.com/gin-gonic/gin"
 )
 
