@@ -4,10 +4,8 @@ import (
 	"log"
 
 	"todo"
-
 	"todo/handler"
 	"todo/repository"
-
 	"todo/service"
 )
 
